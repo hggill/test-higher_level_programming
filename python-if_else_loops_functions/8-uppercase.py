@@ -8,6 +8,3 @@ def uppercase(str):
         else:
             result += c
     print('{}'.format(result))
-
-
-uppercase("Best School 98 Battery street")
